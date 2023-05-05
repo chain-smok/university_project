@@ -1,0 +1,4 @@
+FIrstly, run - npm config set legacy-peer-deps true
+then try to run - npm i codemirror@version5
+Then it will surely work!
+
